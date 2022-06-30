@@ -7,11 +7,9 @@
     <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta property="og:title" content="ij.start.canon" />
 <meta name="msvalidate.01" content="0F2E2C0DA6A45F60787BCC6A15C9ABB7" />
-<h2> id="canon-inkjet-printer-setup-procedure">How to Download the Canon Printer Driver on Your Device?</h2>
+<h2>canon-inkjet-printer-setup-procedure How to Download the Canon Printer Driver on Your Device?</h2>
 
 <p>Follow these steps to download the Canon printer driver via ij.start.canon on your required device within a few steps. </p>
-
-<h3>How to setup Canon Printer Drivers & Install All Canon Printer Drivers</h3>
 
 <ol>
   <li>Start by visiting the Canon support page through <strong>ij.start.canon.</strong>strong> </li>
